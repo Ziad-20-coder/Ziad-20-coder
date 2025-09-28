@@ -1,3 +1,4 @@
+# 👋 Hi! 
 Today: September 28, 2025
 this my first readme.md repo.
 and just learned a little about git and github.
