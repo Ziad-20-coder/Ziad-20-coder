@@ -1,16 +1,17 @@
-## Hi there 👋
+## a man obsessed wit the tech world!
 
-<!--
-**Ziad-20-coder/Ziad-20-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hello, there.
 
-Here are some ideas to get you started:
+i alwayes used to only code a front-end projects but eventually now learning C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## my best project so far:
+  Tesla-clone  --> used TSX and make sure all the components can be reusable.
+
+
+--------------------------------------------------------------------------------
+## fun facts:
+  1. I'm still highschool student and have 19 years old
+  2. I used to watch anime a lot for days without stop
+  3. figuring out a career for myself before applying to college
+
+
