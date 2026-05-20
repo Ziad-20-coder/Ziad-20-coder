@@ -1,17 +1,17 @@
-## a man obsessed wit the tech world!
+## 👋 a man obsessed wit the tech world!
 
 hello, there.
 
-i alwayes used to only code a front-end projects but eventually now learning C++
+I build front-end stuff. Been doing that for a while. Lately I've been learning C++ because I because i did find myself in love with old school Tech languages
 
-## my best project so far:
-  Tesla-clone  --> used TSX and make sure all the components can be reusable.
-
+## 🚀 Best thing I've made so far
+Tesla Clone – built with TypeScript and React. Made sure everything is reusable so it doesn't turn into a mess later.
 
 --------------------------------------------------------------------------------
 ## fun facts:
   1. I'm still highschool student and have 19 years old
   2. I used to watch anime a lot for days without stop
   3. figuring out a career for myself before applying to college
+  4. used to draw A LOT!!!!!!!
 
 
