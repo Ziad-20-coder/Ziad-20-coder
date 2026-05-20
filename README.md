@@ -1,8 +1,8 @@
-## 👋 a man obsessed wit the tech world!
+## 👋 a man obsessed with the tech world!
 
 hello, there.
 
-I build front-end stuff. Been doing that for a while. Lately I've been learning C++ because I because i did find myself in love with old school Tech languages
+I build front-end stuff. Been doing that for a while. Lately I've been learning C++ I because I did find myself in love with old school Tech languages
 
 ## 🚀 Best thing I've made so far
 Tesla Clone – built with TypeScript and React. Made sure everything is reusable so it doesn't turn into a mess later.
