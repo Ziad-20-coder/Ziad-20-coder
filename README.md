@@ -1,6 +1,6 @@
-## 👋 a man obsessed with the tech world!
+## a man obsessed with the tech world!
 
-hello, there.
+👋 hello, there.
 
 I build front-end stuff, Been doing that for a while. Lately I've been learning C++ because I did find myself in love with old school Tech languages
 
